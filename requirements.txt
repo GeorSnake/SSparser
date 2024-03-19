@@ -3,3 +3,4 @@ selenium
 beautifulsoup4
 chromedriver-binary
 lxml
+django
