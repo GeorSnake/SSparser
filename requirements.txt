@@ -1,0 +1,5 @@
+fake_useragent
+selenium
+beautifulsoup4
+chromedriver-binary
+lxml
