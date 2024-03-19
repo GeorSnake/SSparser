@@ -21,6 +21,7 @@
 
 ```python -m venv venv```
 `source venv/bin/activate`  # для Unix/Linux
+
 `venv\Scripts\activate`  # для Windows
 
 4. Установите зависимости:
